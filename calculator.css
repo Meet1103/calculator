@@ -1,0 +1,91 @@
+.b
+{
+    margin:0px;
+    background-color:white;
+}
+
+#happy
+{
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    font-weight:bold;
+    color:rgb(255,0,255);
+    text-shadow:2px 2px lightblue;
+    display:block;
+}
+
+.Values
+{
+    min-height:12%;
+    min-width:25%;
+    position:fixed;
+    background:linear-gradient(to right , red , rgb(255,0,255));
+    color:white;
+    font-family:serif;
+    font-weight:bolder;
+    font-size:2em;
+    border-radius:5%;
+}
+
+.left1{
+    left:0%;
+}
+
+.left2{
+    left:25%;
+}
+
+.left3{
+    left:50%;
+}
+
+.left4{
+    left:75%;
+}
+
+.bottom1
+{
+    bottom:0%;
+}
+
+.bottom2
+{
+    bottom:12%;
+}
+
+.bottom3
+{
+    bottom:24%;
+}
+
+.bottom4
+{
+    bottom:36%;
+}
+
+.bottom5
+{
+    bottom:48%;
+}
+
+.bottom6
+{
+    bottom:60%;
+}
+
+#Calc
+{
+    min-height:28%;
+    min-width:100%;
+    position:fixed;
+    top:0%;
+    left:-0.4%;
+    background:linear-gradient(to right , red , rgb(255,0,255));
+    margin:0%;
+    color:white;
+    font-family:serif;
+    font-weight:bolder;
+    font-size:200%;
+    display:none;
+    margin-left:0px;
+}
